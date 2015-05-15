@@ -1,0 +1,19 @@
+{
+"manifest_version": 2,
+"name": "CK Employee Self Service",
+"description": "Link to the CK Employee self service website. ",
+"version": "1.1",
+"icons": {
+"128": "128.png"
+},
+"app": {
+"urls": [
+"http://www.chatham-kent.ca/employee/signin.aspx"
+],
+"launch": {
+"web_url": "http://www.chatham-kent.ca/employee/signin.aspx"
+}
+},
+"permissions": [
+]
+}
