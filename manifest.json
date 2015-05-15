@@ -8,10 +8,10 @@
 },
 "app": {
 "urls": [
-"http://www.chatham-kent.ca/employee/signin.aspx"
+"https://www.chatham-kent.ca/employee/signin.aspx"
 ],
 "launch": {
-"web_url": "http://www.chatham-kent.ca/employee/signin.aspx"
+"web_url": "https://www.chatham-kent.ca/employee/signin.aspx"
 }
 },
 "permissions": [
